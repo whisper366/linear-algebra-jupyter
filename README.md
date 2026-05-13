@@ -13,3 +13,10 @@
 | 3 | 线性代数核心（向量、矩阵、特征值） | ⏳ 计划 |  |
 | 4 | 概率论模拟（抛硬币、贝叶斯） | ⏳ 计划 |  |
 | 5 | 可视化与几何直觉 | ⏳ 计划 |  |
+
+# 📖 参考资料
+
+- [3Blue1Brown - 线性代数的本质](https://www.bilibili.com/video/BV1ys411472E)（B站中文字幕）
+- [MIT 18.06 线性代数 (Gilbert Strang)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [numpy 官方快速入门](https://numpy.org/doc/stable/user/quickstart.html)
+- [Prob140: Probability for Data Science](https://prob140.org/)（UC Berkeley 在线教材）**
